@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejemplo_Layout</string>
+    
+    <string-array name="lista_estado_civil">
+        <item>CASADO</item>
+        <item>SOLTERO</item>
+    </string-array>
+
+    <string-array name="lista_cargo">
+        <item>VENTAS</item>
+        <item>RELACIONES PUBLICAS</item>
+        <item>OPERACIONES</item>
+    </string-array>
+
+</resources>
